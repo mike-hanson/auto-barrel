@@ -1,5 +1,5 @@
 ## NO LONGER MAINTAINED
-I have retired and am no longer able to maintain this extension.  If you anyone is interested in taking over the maintainance please message me directly.  I am happy to transfer this and the source repo, and help get up an running with publishing it to the marketplace.
+I have retired and am no longer able to maintain this extension.  If anyone is interested in taking over the maintainance please message me directly.  I am happy to transfer this and the source repo, and help get up an running with publishing it to the marketplace.
 
 # Auto Barrel
 
